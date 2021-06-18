@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[c_07]]></data>
+  <data name="en_project_author_name"><![CDATA[HitachiRail-EU]]></data>
+
+
+  <data name="en_panogroup1487_title"><![CDATA[91]]></data>
+
+  <data name="en_pano1440_title"><![CDATA[A1]]></data>
+  <data name="en_spotpoint1895_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2521_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4027_tooltip"><![CDATA[1_DCUA]]></data>
+  <data name="en_spotpoint4029_tooltip"><![CDATA[3_MCB C1-91 (C151 IF 5 CAR)]]></data>
+  <data name="en_spotpoint4030_tooltip"><![CDATA[3_TMS C191 (C1 51 IF 5 CAR)]]></data>
+  <data name="en_spotpoint4031_tooltip"><![CDATA[4_Equipment rack C291 (51)]]></data>
+  <data name="en_spotpoint4032_tooltip"><![CDATA[6_DCUD]]></data>
+  <data name="en_spotpoint4033_tooltip"><![CDATA[7_BSR]]></data>
+  <data name="en_spotpolygon5395_tooltip"><![CDATA[BSR]]></data>
+  <data name="en_spotpolygon5397_tooltip"><![CDATA[EQUIPMENT RACK C2-91]]></data>
+  <data name="en_spotpolygon5398_tooltip"><![CDATA[MCB C1-91]]></data>
+  <data name="en_spotpolygon5399_tooltip"><![CDATA[TMS C1-91]]></data>
+  <data name="en_spotpolygon5400_tooltip"><![CDATA[DCUA]]></data>
+  <data name="en_spotpolygon5402_tooltip"><![CDATA[DCUD]]></data>
+  <data name="en_pano1441_title"><![CDATA[A2]]></data>
+  <data name="en_spotpoint1897_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2520_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_pano1442_title"><![CDATA[A3]]></data>
+  <data name="en_spotpoint1898_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint1899_tooltip"><![CDATA[UAT]]></data>
+  <data name="en_spotpoint2939_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4039_tooltip"><![CDATA[1_Emergency coupler]]></data>
+  <data name="en_spotpoint4040_tooltip"><![CDATA[2_DCU B/C]]></data>
+  <data name="en_spotpoint4041_tooltip"><![CDATA[3_EGS panel]]></data>
+  <data name="en_spotpolygon5404_tooltip"><![CDATA[EGS PANEL]]></data>
+  <data name="en_spotpolygon5405_tooltip"><![CDATA[DCU B/C]]></data>
+  <data name="en_spotpolygon5406_tooltip"><![CDATA[EMERGENCY COUPLER]]></data>
+  <data name="en_pano1443_title"><![CDATA[A4]]></data>
+  <data name="en_spotpoint1901_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4035_tooltip"><![CDATA[1_UAT Cb 1]]></data>
+  <data name="en_spotpoint4036_tooltip"><![CDATA[2_control module]]></data>
+  <data name="en_spotpoint4037_tooltip"><![CDATA[3_isolation cock]]></data>
+  <data name="en_spotpoint4038_tooltip"><![CDATA[4_Cb 2]]></data>
+  <data name="en_spotpolygon5407_tooltip"><![CDATA[UAT CB1]]></data>
+  <data name="en_spotpolygon5409_tooltip"><![CDATA[CONTROL MODULE]]></data>
+  <data name="en_spotpolygon5410_tooltip"><![CDATA[CB2]]></data>
+  <data name="en_spotpolygon6255_tooltip"><![CDATA[ISOLATION COCK]]></data>
+  <data name="en_pano1444_title"><![CDATA[A5]]></data>
+  <data name="en_spotpoint1903_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2519_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4042_tooltip"><![CDATA[1_Pant control top]]></data>
+  <data name="en_spotpoint4043_tooltip"><![CDATA[2_Pant control btm]]></data>
+  <data name="en_spotpoint4044_tooltip"><![CDATA[3_emergency ladder]]></data>
+  <data name="en_spotpolygon5411_tooltip"><![CDATA[EMERGENCY LADDER]]></data>
+  <data name="en_spotpolygon5412_tooltip"><![CDATA[PANTOGRAPH CONTROL - TOP]]></data>
+  <data name="en_spotpolygon5413_tooltip"><![CDATA[PANTOGRAPH CONTROL - BOTTOM]]></data>
+
+  <data name="en_panogroup1485_title"><![CDATA[CAB-91]]></data>
+
+  <data name="en_pano1438_title"><![CDATA[Cab_1]]></data>
+  <data name="en_spotpoint2275_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpolygon8903_tooltip"><![CDATA[DRIVERS DESK - LEFT PANEL]]></data>
+  <data name="en_spotpolygon8906_tooltip"><![CDATA[DRIVERS DESK - SOCKET/LIGHT]]></data>
+  <data name="en_spotpolygon9473_tooltip"><![CDATA[EMERGENCY CALL - KICK BUTTON]]></data>
+  <data name="en_spotpolygon9500_tooltip"><![CDATA[DRIVERS CAB - CENTRAL PANEL]]></data>
+  <data name="en_spotpolygon9501_tooltip"><![CDATA[DRIVERS DESK - RIGHT PANEL]]></data>
+  <data name="en_pano1439_title"><![CDATA[Cab_2]]></data>
+  <data name="en_spotpoint2276_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2522_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint3345_tooltip"><![CDATA[cab1_iso_panel]]></data>
+  <data name="en_spotpoint3346_tooltip"><![CDATA[cab2_back wall control panel]]></data>
+  <data name="en_spotpoint3347_tooltip"><![CDATA[cab3_mcb panel]]></data>
+  <data name="en_spotpoint3348_tooltip"><![CDATA[cab4_cab emergency equipment]]></data>
+  <data name="en_spotpoint3349_tooltip"><![CDATA[cab5_DCRB2]]></data>
+  <data name="en_spotpoint3350_tooltip"><![CDATA[cab6_DCRB1]]></data>
+  <data name="en_spotpoint3351_tooltip"><![CDATA[cab7_DSIC panel (page51)]]></data>
+  <data name="en_spotpoint3352_tooltip"><![CDATA[cab_ATP control panel]]></data>
+  <data name="en_spotpoint3353_tooltip"><![CDATA[cab9_VCB control panel]]></data>
+  <data name="en_spotpoint3355_tooltip"><![CDATA[cab11_cab 91/99]]></data>
+  <data name="en_spotpoint3354_tooltip"><![CDATA[cab10_drum switch]]></data>
+  <data name="en_spotpoint3797_tooltip"><![CDATA[cab12_MOM cb]]></data>
+  <data name="en_spotpoint3798_tooltip"><![CDATA[cab13_OTMR / HVAC]]></data>
+  <data name="en_spotpoint3799_tooltip"><![CDATA[cab14_ETCS1]]></data>
+  <data name="en_spotpoint3800_tooltip"><![CDATA[cab15_ETCS2]]></data>
+  <data name="en_spotpolygon3801_tooltip"><![CDATA[MCB PANEL]]></data>
+  <data name="en_spotpolygon5382_tooltip"><![CDATA[ATP CONTROL PANEL]]></data>
+  <data name="en_spotpolygon5383_tooltip"><![CDATA[VCB CONTROL PANEL]]></data>
+  <data name="en_spotpolygon5384_tooltip"><![CDATA[ISOLATION PANEL]]></data>
+  <data name="en_spotpolygon5385_tooltip"><![CDATA[BACK WALL CONTROL PANEL]]></data>
+  <data name="en_spotpolygon5386_tooltip"><![CDATA[OTMR / HVAC]]></data>
+  <data name="en_spotpolygon5387_tooltip"><![CDATA[MOM CABINET]]></data>
+  <data name="en_spotpolygon5388_tooltip"><![CDATA[ETCS2]]></data>
+  <data name="en_spotpolygon5389_tooltip"><![CDATA[ETCS1]]></data>
+  <data name="en_spotpolygon5390_tooltip"><![CDATA[DRUM SWITCH]]></data>
+  <data name="en_spotpolygon5391_tooltip"><![CDATA[CABINET 91]]></data>
+  <data name="en_spotpolygon5392_tooltip"><![CDATA[DCRB2]]></data>
+  <data name="en_spotpolygon5393_tooltip"><![CDATA[DCRB1]]></data>
+  <data name="en_spotpolygon5394_tooltip"><![CDATA[DSIC PANEL]]></data>
+  <data name="en_spotpolygon6253_tooltip"><![CDATA[EMERGENCY EQUIPMENT]]></data>
+  <data name="en_spotpolygon8894_tooltip"><![CDATA[HORN ISOLATION]]></data>
+  <data name="en_spotpolygon8896_tooltip"><![CDATA[SCREEN WASH ISOLATION]]></data>
+  <data name="en_spotpolygon9492_tooltip"><![CDATA[CAB DOOR OANEL]]></data>
+  <data name="en_spotpolygon9495_tooltip"><![CDATA[CAB DOOR PANEL]]></data>
+
+  <data name="en_panogroup1492_title"><![CDATA[92]]></data>
+
+  <data name="en_pano1445_title"><![CDATA[B1]]></data>
+  <data name="en_spotpoint2047_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2518_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4045_tooltip"><![CDATA[1_BSR isolation]]></data>
+  <data name="en_spotpoint4046_tooltip"><![CDATA[2_MCB panel C392 (c352 if 5 car)]]></data>
+  <data name="en_spotpoint4047_tooltip"><![CDATA[3_lower juction box (yes lower)]]></data>
+  <data name="en_spotpoint4048_tooltip"><![CDATA[4_TMS C392 (C352)]]></data>
+  <data name="en_spotpoint4049_tooltip"><![CDATA[5_Equipment rack C492 (c452)]]></data>
+  <data name="en_spotpoint4050_tooltip"><![CDATA[6_Emergency equipoment Cb]]></data>
+  <data name="en_spotpoint4051_tooltip"><![CDATA[6_Storage]]></data>
+  <data name="en_spotpolygon5415_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_spotpolygon5416_tooltip"><![CDATA[EMERGENCY EQUIPMENT CABINET]]></data>
+  <data name="en_spotpolygon5417_tooltip"><![CDATA[LOWER JUNCTION BOX]]></data>
+  <data name="en_spotpolygon5418_tooltip"><![CDATA[MCB PANEL C3-92]]></data>
+  <data name="en_spotpolygon5419_tooltip"><![CDATA[TMS C3-92]]></data>
+  <data name="en_spotpolygon5420_tooltip"><![CDATA[BSR ISOLATION]]></data>
+  <data name="en_spotpolygon5421_tooltip"><![CDATA[EQUIPMENT RACK C4-92]]></data>
+  <data name="en_pano1446_title"><![CDATA[B2]]></data>
+  <data name="en_spotpoint2048_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2517_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4052_tooltip"><![CDATA[1_DCU-D]]></data>
+  <data name="en_spotpoint4053_tooltip"><![CDATA[2_DCU-A]]></data>
+  <data name="en_spotpoint4054_tooltip"><![CDATA[3_DCU-B]]></data>
+  <data name="en_spotpoint4055_tooltip"><![CDATA[4_DCU-C]]></data>
+  <data name="en_spotpolygon7229_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_spotpolygon7230_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpolygon7231_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpolygon7232_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_pano1447_title"><![CDATA[B3]]></data>
+  <data name="en_spotpoint2049_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2050_tooltip"><![CDATA[STANDARD WC]]></data>
+  <data name="en_spotpoint2052_tooltip"><![CDATA[BIKE STORAGE]]></data>
+  <data name="en_spotpoint2516_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4057_tooltip"><![CDATA[1_GAU]]></data>
+  <data name="en_spotpoint4058_tooltip"><![CDATA[2_GAU]]></data>
+  <data name="en_spotpolygon10551_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10552_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_pano1448_title"><![CDATA[B4]]></data>
+  <data name="en_spotpoint2051_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4056_tooltip"><![CDATA[1_WC control unit]]></data>
+  <data name="en_spotpolygon5429_tooltip"><![CDATA[WC CONTROL UNIT]]></data>
+  <data name="en_pano1449_title"><![CDATA[B5]]></data>
+  <data name="en_spotpoint2053_tooltip"><![CDATA[BACK]]></data>
+
+  <data name="en_panogroup1497_title"><![CDATA[93]]></data>
+
+  <data name="en_pano1450_title"><![CDATA[C1]]></data>
+  <data name="en_spotpoint2055_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2515_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4059_tooltip"><![CDATA[1_LJB]]></data>
+  <data name="en_spotpoint4060_tooltip"><![CDATA[2_BR isolation cock (c393)(c353)]]></data>
+  <data name="en_spotpoint4061_tooltip"><![CDATA[3_mcb (c393)(c353)]]></data>
+  <data name="en_spotpoint4062_tooltip"><![CDATA[3_TMS (c393)(c353)]]></data>
+  <data name="en_spotpoint4063_tooltip"><![CDATA[5_Equipment rack C493 (c453)]]></data>
+  <data name="en_spotpoint4064_tooltip"><![CDATA[6_emergency equipment]]></data>
+  <data name="en_spotpolygon5430_tooltip"><![CDATA[EMERGENCY EQUIPMENT CABINET]]></data>
+  <data name="en_spotpolygon6153_tooltip"><![CDATA[LOWER JUNCTION BOX]]></data>
+  <data name="en_spotpolygon6154_tooltip"><![CDATA[MCB PANEL C3-93]]></data>
+  <data name="en_spotpolygon6155_tooltip"><![CDATA[TMS 3-93]]></data>
+  <data name="en_spotpolygon6156_tooltip"><![CDATA[EQUIPMENT RACK C4-93]]></data>
+  <data name="en_spotpolygon6157_tooltip"><![CDATA[BSR ISOLATION]]></data>
+  <data name="en_spotpolygon7197_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_spotpoint7198_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_pano1451_title"><![CDATA[C2]]></data>
+  <data name="en_spotpoint2056_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2513_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4065_tooltip"><![CDATA[1_DCU-D]]></data>
+  <data name="en_spotpoint4066_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpoint4067_tooltip"><![CDATA[3_DCU-B]]></data>
+  <data name="en_spotpoint4068_tooltip"><![CDATA[4_DCU-C]]></data>
+  <data name="en_spotpolygon6282_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_spotpolygon6284_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpolygon6285_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpolygon6286_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_pano1452_title"><![CDATA[C3]]></data>
+  <data name="en_spotpoint2057_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2058_tooltip"><![CDATA[WC-1]]></data>
+  <data name="en_spotpoint2059_tooltip"><![CDATA[WC-2]]></data>
+  <data name="en_spotpoint2512_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon10538_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10539_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_pano1454_title"><![CDATA[C4]]></data>
+  <data name="en_spotpoint2060_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4069_tooltip"><![CDATA[1_wc_control_panel]]></data>
+  <data name="en_spotpolygon6162_tooltip"><![CDATA[WC CONTROL PANEL]]></data>
+  <data name="en_pano1533_title"><![CDATA[C5]]></data>
+  <data name="en_spotpoint2061_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4070_tooltip"><![CDATA[1_WC control panel]]></data>
+  <data name="en_spotpolygon7233_tooltip"><![CDATA[WC CONTROL PANEL]]></data>
+
+  <data name="en_panogroup1503_title"><![CDATA[94]]></data>
+
+  <data name="en_pano1456_title"><![CDATA[G1]]></data>
+  <data name="en_spotpoint2062_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint2511_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint4071_tooltip"><![CDATA[All the same as before BUT NUMBERING (C394(54)  - C494(54)]]></data>
+  <data name="en_spotpolygon6163_tooltip"><![CDATA[LOWER JUNCTION BOX]]></data>
+  <data name="en_spotpolygon6164_tooltip"><![CDATA[EQUIPMENT RACK C4-94]]></data>
+  <data name="en_spotpolygon6165_tooltip"><![CDATA[MCB PANEL C3-94]]></data>
+  <data name="en_spotpolygon6166_tooltip"><![CDATA[TMS C3-94]]></data>
+  <data name="en_spotpolygon6167_tooltip"><![CDATA[BSR ISOLATION]]></data>
+  <data name="en_spotpolygon7199_tooltip"><![CDATA[EMERGENCY EQUIPMENT CABINET]]></data>
+  <data name="en_spotpolygon7200_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_pano1457_title"><![CDATA[G2]]></data>
+  <data name="en_spotpoint2063_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2510_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4074_tooltip"><![CDATA[1_DCU-D]]></data>
+  <data name="en_spotpoint4075_tooltip"><![CDATA[2_DCU-A]]></data>
+  <data name="en_spotpolygon7207_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_spotpolygon7208_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_pano1458_title"><![CDATA[G3]]></data>
+  <data name="en_spotpoint2064_tooltip"><![CDATA[3_L3 CATERING]]></data>
+  <data name="en_spotpoint2066_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2509_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4081_tooltip"><![CDATA[1_DCU C (top) B (btm)]]></data>
+  <data name="en_spotpoint4082_tooltip"><![CDATA[2_Catering fresh water tank]]></data>
+  <data name="en_spotpolygon6170_tooltip"><![CDATA[CATERING FRESH WATER TANK]]></data>
+  <data name="en_spotpolygon6171_tooltip"><![CDATA[DCU-C / B]]></data>
+  <data name="en_pano1459_title"><![CDATA[G4]]></data>
+  <data name="en_spotpoint2065_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_pano1460_title"><![CDATA[G5]]></data>
+  <data name="en_spotpoint2067_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2508_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4083_tooltip"><![CDATA[1_GAU]]></data>
+  <data name="en_spotpoint4084_tooltip"><![CDATA[2_GAU]]></data>
+  <data name="en_spotpoint4085_tooltip"><![CDATA[BIKE STORAGE]]></data>
+  <data name="en_spotpoint4086_tooltip"><![CDATA[CATERING]]></data>
+  <data name="en_spotpolygon8045_tooltip"><![CDATA[CATERING]]></data>
+  <data name="en_spotpolygon10549_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10550_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_pano8049_title"><![CDATA[G6]]></data>
+  <data name="en_spotpoint8051_tooltip"><![CDATA[BACK]]></data>
+
+  <data name="en_panogroup1509_title"><![CDATA[95]]></data>
+
+  <data name="en_pano1462_title"><![CDATA[H1]]></data>
+  <data name="en_spotpoint2068_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2940_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4090_tooltip"><![CDATA[C495 (NO 5 CAR)]]></data>
+  <data name="en_spotpoint4091_tooltip"><![CDATA[same as before C395 (NO 5 CAR VERSION)]]></data>
+  <data name="en_spotpoint4092_tooltip"><![CDATA[1_NOTE: VCB 3 control panel behind equipment)]]></data>
+  <data name="en_spotpolygon6175_tooltip"><![CDATA[LOWER JUNCTION BOX]]></data>
+  <data name="en_spotpolygon6176_tooltip"><![CDATA[EMERGENCY EQUIPMENT CABINET]]></data>
+  <data name="en_spotpolygon6177_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_spotpolygon6179_tooltip"><![CDATA[MCB PANEL C3-95]]></data>
+  <data name="en_spotpolygon6180_tooltip"><![CDATA[TMS C3-95]]></data>
+  <data name="en_spotpolygon6181_tooltip"><![CDATA[BSR ISOLATION]]></data>
+  <data name="en_spotpolygon7203_tooltip"><![CDATA[EQUIPMENT RACK C4-95]]></data>
+  <data name="en_pano1463_title"><![CDATA[H2]]></data>
+  <data name="en_spotpoint2069_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2507_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4097_tooltip"><![CDATA[same as usual]]></data>
+  <data name="en_spotpolygon7209_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpolygon7210_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_spotpolygon7211_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpolygon7212_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_pano1464_title"><![CDATA[H3]]></data>
+  <data name="en_spotpoint2070_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2071_tooltip"><![CDATA[WC 1]]></data>
+  <data name="en_spotpoint2072_tooltip"><![CDATA[WC 2]]></data>
+  <data name="en_spotpoint2506_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4101_tooltip"><![CDATA[1_gau]]></data>
+  <data name="en_spotpoint4102_tooltip"><![CDATA[2_gau]]></data>
+  <data name="en_spotpolygon10547_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10548_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_pano1537_title"><![CDATA[H4]]></data>
+  <data name="en_spotpoint2074_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4099_tooltip"><![CDATA[1_WC CONTROL PANEL]]></data>
+  <data name="en_spotpolygon6188_tooltip"><![CDATA[WC CONTROL PANEL]]></data>
+  <data name="en_pano1540_title"><![CDATA[H5]]></data>
+  <data name="en_spotpoint2073_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4100_tooltip"><![CDATA[1_WC CONTROL PANEL]]></data>
+  <data name="en_spotpolygon6189_tooltip"><![CDATA[WC CONTROL PANEL]]></data>
+
+  <data name="en_panogroup1513_title"><![CDATA[96]]></data>
+
+  <data name="en_pano1466_title"><![CDATA[J1]]></data>
+  <data name="en_spotpoint2075_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2505_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4104_tooltip"><![CDATA[C396]]></data>
+  <data name="en_spotpoint4105_tooltip"><![CDATA[C396]]></data>
+  <data name="en_spotpoint4106_tooltip"><![CDATA[C396]]></data>
+  <data name="en_spotpoint4108_tooltip"><![CDATA[same as before C496]]></data>
+  <data name="en_spotpolygon6190_tooltip"><![CDATA[LOWER JUNCTION BOX]]></data>
+  <data name="en_spotpolygon6191_tooltip"><![CDATA[EMERGENCY EQUIPMENT CABINET]]></data>
+  <data name="en_spotpolygon6192_tooltip"><![CDATA[MCB PANEL C3-96]]></data>
+  <data name="en_spotpolygon6193_tooltip"><![CDATA[TMS C3-96]]></data>
+  <data name="en_spotpolygon6194_tooltip"><![CDATA[BSR ISOLATION]]></data>
+  <data name="en_spotpolygon6195_tooltip"><![CDATA[EQUIPMENT RACK C4-96]]></data>
+  <data name="en_spotpolygon7205_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_pano1467_title"><![CDATA[J2]]></data>
+  <data name="en_spotpoint2076_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2504_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4113_tooltip"><![CDATA[AS USUAL]]></data>
+  <data name="en_spotpolygon7213_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpolygon7214_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_spotpolygon7215_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpolygon7216_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_pano1468_title"><![CDATA[J3]]></data>
+  <data name="en_spotpoint2077_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2078_tooltip"><![CDATA[WC 1]]></data>
+  <data name="en_spotpoint2079_tooltip"><![CDATA[WC 2]]></data>
+  <data name="en_spotpoint2503_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4116_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpoint4117_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10545_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10546_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_pano1548_title"><![CDATA[J4]]></data>
+  <data name="en_spotpoint2080_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4114_tooltip"><![CDATA[wc control panel]]></data>
+  <data name="en_spotpolygon6202_tooltip"><![CDATA[WC CONTROL PANEL]]></data>
+  <data name="en_pano1815_title"><![CDATA[J5]]></data>
+  <data name="en_spotpoint2081_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4115_tooltip"><![CDATA[wc control panel]]></data>
+  <data name="en_spotpolygon6203_tooltip"><![CDATA[WC CONTROL PANEL]]></data>
+
+  <data name="en_panogroup1516_title"><![CDATA[97]]></data>
+
+  <data name="en_pano1469_title"><![CDATA[K1]]></data>
+  <data name="en_spotpoint2095_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_pano1470_title"><![CDATA[K2]]></data>
+  <data name="en_spotpoint2096_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_pano1472_title"><![CDATA[K3]]></data>
+  <data name="en_spotpoint2087_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2091_tooltip"><![CDATA[BIKE STORAGE 2]]></data>
+  <data name="en_spotpoint2092_tooltip"><![CDATA[BIKE STORAGE 1]]></data>
+  <data name="en_spotpoint2502_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4118_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpoint4119_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10543_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10544_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_pano1473_title"><![CDATA[K4]]></data>
+  <data name="en_spotpoint2097_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2501_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4120_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpoint4121_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_spotpolygon7217_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpolygon7218_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_pano1474_title"><![CDATA[K5]]></data>
+  <data name="en_spotpoint2098_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2500_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4122_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_spotpoint4123_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpolygon7219_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_spotpolygon7220_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_pano1475_title"><![CDATA[K6]]></data>
+  <data name="en_spotpoint2099_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2499_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4124_tooltip"><![CDATA[c397]]></data>
+  <data name="en_spotpoint4127_tooltip"><![CDATA[c497]]></data>
+  <data name="en_spotpoint4130_tooltip"><![CDATA[AS before]]></data>
+  <data name="en_spotpolygon6210_tooltip"><![CDATA[EMERGENCY EQUIPMENT CABINET]]></data>
+  <data name="en_spotpolygon6211_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_spotpolygon6212_tooltip"><![CDATA[MCB PANEL C3-97]]></data>
+  <data name="en_spotpolygon6213_tooltip"><![CDATA[TMS C3-97]]></data>
+  <data name="en_spotpolygon6214_tooltip"><![CDATA[BSR ISOLATION]]></data>
+  <data name="en_spotpolygon6215_tooltip"><![CDATA[EQUIPMENT RACK C4-97]]></data>
+  <data name="en_spotpolygon6216_tooltip"><![CDATA[LOWER JUNCTION BOX]]></data>
+
+  <data name="en_panogroup1529_title"><![CDATA[99]]></data>
+
+  <data name="en_pano1482_title"><![CDATA[M1]]></data>
+  <data name="en_spotpoint2271_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2282_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_pano1483_title"><![CDATA[M2]]></data>
+  <data name="en_spotpoint2272_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2281_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_pano1484_title"><![CDATA[M3]]></data>
+  <data name="en_spotpoint2273_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2280_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon6231_tooltip"><![CDATA[DCUA]]></data>
+  <data name="en_spotpolygon6232_tooltip"><![CDATA[MCB C1-99]]></data>
+  <data name="en_spotpolygon6233_tooltip"><![CDATA[TMS C1-99]]></data>
+  <data name="en_spotpolygon6234_tooltip"><![CDATA[EQUIPMENT RACK C2-99]]></data>
+  <data name="en_spotpolygon6236_tooltip"><![CDATA[DCUD]]></data>
+  <data name="en_spotpolygon6237_tooltip"><![CDATA[BSR]]></data>
+
+  <data name="en_panogroup1826_title"><![CDATA[98]]></data>
+
+  <data name="en_pano1476_title"><![CDATA[L1]]></data>
+  <data name="en_spotpoint2119_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2287_tooltip"><![CDATA[BIKE STORE]]></data>
+  <data name="en_spotpoint2288_tooltip"><![CDATA[WC]]></data>
+  <data name="en_spotpoint2498_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4132_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpoint4133_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10540_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_spotpolygon10541_tooltip"><![CDATA[GAU]]></data>
+  <data name="en_pano1477_title"><![CDATA[L2]]></data>
+  <data name="en_spotpoint2100_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2286_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4134_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpoint4135_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_spotpoint4136_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_spotpoint4137_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpolygon7221_tooltip"><![CDATA[DCU-D]]></data>
+  <data name="en_spotpolygon7222_tooltip"><![CDATA[DCU-A]]></data>
+  <data name="en_spotpolygon7223_tooltip"><![CDATA[DCU-B]]></data>
+  <data name="en_spotpolygon7224_tooltip"><![CDATA[DCU-C]]></data>
+  <data name="en_pano1479_title"><![CDATA[L3]]></data>
+  <data name="en_spotpoint2101_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2285_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpoint4138_tooltip"><![CDATA[C398]]></data>
+  <data name="en_spotpoint4141_tooltip"><![CDATA[C498]]></data>
+  <data name="en_spotpoint4144_tooltip"><![CDATA[AS BEFORE]]></data>
+  <data name="en_spotpolygon6223_tooltip"><![CDATA[EMERGENCY EQUIPMENT CABINET]]></data>
+  <data name="en_spotpolygon6224_tooltip"><![CDATA[STORAGE]]></data>
+  <data name="en_spotpolygon6225_tooltip"><![CDATA[LOWER JUNCTION BOX]]></data>
+  <data name="en_spotpolygon6226_tooltip"><![CDATA[MCB PANEL C3-98]]></data>
+  <data name="en_spotpolygon6227_tooltip"><![CDATA[TMS C3-98]]></data>
+  <data name="en_spotpolygon6228_tooltip"><![CDATA[BSR ISOLATION]]></data>
+  <data name="en_spotpolygon6229_tooltip"><![CDATA[EQUIPMENT RACK C4-98]]></data>
+  <data name="en_pano1480_title"><![CDATA[L4]]></data>
+  <data name="en_spotpoint2102_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2284_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon8644_tooltip"><![CDATA[PANTOGRAPH CONTROL - TOP]]></data>
+  <data name="en_spotpolygon8756_tooltip"><![CDATA[PANTOGRAPH CONTROL - BOTTOM]]></data>
+  <data name="en_spotpolygon8758_tooltip"><![CDATA[EMERGENCY LADDER]]></data>
+  <data name="en_pano1481_title"><![CDATA[L5]]></data>
+  <data name="en_spotpoint2110_tooltip"><![CDATA[WC]]></data>
+  <data name="en_spotpoint2111_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2283_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon8646_tooltip"><![CDATA[EMERGENCY COUPLER]]></data>
+  <data name="en_spotpolygon8647_tooltip"><![CDATA[DCU B/C]]></data>
+  <data name="en_spotpolygon8648_tooltip"><![CDATA[EGS PANEL]]></data>
+  <data name="en_pano2104_title"><![CDATA[L6]]></data>
+  <data name="en_spotpoint2105_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon7225_tooltip"><![CDATA[CONTROL MODULE]]></data>
+  <data name="en_spotpolygon7226_tooltip"><![CDATA[UAT CB1]]></data>
+  <data name="en_spotpolygon7227_tooltip"><![CDATA[CB2]]></data>
+  <data name="en_spotpolygon7228_tooltip"><![CDATA[ISOLATION COCK]]></data>
+  <data name="en_pano2296_title"><![CDATA[L7]]></data>
+  <data name="en_spotpoint2297_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_pano2290_title"><![CDATA[L8]]></data>
+  <data name="en_spotpoint2291_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon10530_tooltip"><![CDATA[CONTROL MODULE]]></data>
+
+  <data name="en_panogroup15234_title"><![CDATA[CAB-99]]></data>
+
+  <data name="en_pano1822_title"><![CDATA[SAM_100_0314ee]]></data>
+  <data name="en_spotpoint2278_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon9476_tooltip"><![CDATA[DRIVERS DESK - SOCKET/LIGHT]]></data>
+  <data name="en_spotpolygon9480_tooltip"><![CDATA[DRIVERS DESK - CENTRAL PANEL]]></data>
+  <data name="en_spotpolygon9481_tooltip"><![CDATA[DRIVERS DESK - LEFT PANEL]]></data>
+  <data name="en_spotpolygon9484_tooltip"><![CDATA[EMERGENCY CALL - KICK BUTTON]]></data>
+  <data name="en_spotpolygon9502_tooltip"><![CDATA[DRIVERS DESK - RIGHT PANEL]]></data>
+  <data name="en_pano1819_title"><![CDATA[SAM_100_0315ee]]></data>
+  <data name="en_spotpoint2274_tooltip"><![CDATA[FORWARD]]></data>
+  <data name="en_spotpoint2279_tooltip"><![CDATA[BACK]]></data>
+  <data name="en_spotpolygon6238_tooltip"><![CDATA[ATP CONTROL PANEL]]></data>
+  <data name="en_spotpolygon6239_tooltip"><![CDATA[VCB CONTROL PANEL]]></data>
+  <data name="en_spotpolygon6240_tooltip"><![CDATA[ISOLATION PANEL]]></data>
+  <data name="en_spotpolygon6241_tooltip"><![CDATA[BACK WALL CONTROL PANEL]]></data>
+  <data name="en_spotpolygon6243_tooltip"><![CDATA[OTMR / HVAC]]></data>
+  <data name="en_spotpolygon6244_tooltip"><![CDATA[ETCS1]]></data>
+  <data name="en_spotpolygon6245_tooltip"><![CDATA[MOM CABINET]]></data>
+  <data name="en_spotpolygon6246_tooltip"><![CDATA[ETCS1]]></data>
+  <data name="en_spotpolygon6247_tooltip"><![CDATA[DRUM SWITCH]]></data>
+  <data name="en_spotpolygon6248_tooltip"><![CDATA[CABINET 99]]></data>
+  <data name="en_spotpolygon6249_tooltip"><![CDATA[SCIC PANEL]]></data>
+  <data name="en_spotpolygon6250_tooltip"><![CDATA[DCRB2]]></data>
+  <data name="en_spotpolygon6251_tooltip"><![CDATA[DCRB1]]></data>
+  <data name="en_spotpolygon6252_tooltip"><![CDATA[MCB PANEL]]></data>
+  <data name="en_spotpolygon6277_tooltip"><![CDATA[EMERGENCY EQUIPMENT]]></data>
+  <data name="en_spotpolygon9487_tooltip"><![CDATA[HORN ISOLATION]]></data>
+  <data name="en_spotpolygon9489_tooltip"><![CDATA[SCREEN WASH ISOLATION]]></data>
+  <data name="en_spotpolygon9496_tooltip"><![CDATA[CAB DOOR PANEL]]></data>
+  <data name="en_spotpolygon9498_tooltip"><![CDATA[CAB DOOR PANEL]]></data>
+
+
+
+
+	<data name="en_project_floor_title"><![CDATA[c_07]]></data>
+	<data name="en_spotmap561_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap562_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap563_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap564_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap565_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap566_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap612_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1337_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1338_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1339_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1340_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1341_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1342_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1343_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1344_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1345_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2525_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2526_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2527_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2528_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2529_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2530_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2531_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2532_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2533_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2534_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2535_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2536_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2537_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2538_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap2539_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap8880_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap8881_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap8882_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap8883_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap8884_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap8885_tooltip"><![CDATA[]]></data>
+
+
+  <data name="en_togglebuttonfirsttooltip"><![CDATA[FULLSCREEN]]></data>
+  <data name="en_togglebuttonsecondtooltip"><![CDATA[RESTORE]]></data>
+  <data name="en_loadertextloaderinfo"><![CDATA[Loading...]]></data>
+  <data name="en_togglebutton2firsttooltip"><![CDATA[HIDE HOTPOTS]]></data>
+  <data name="en_togglebutton2secondtooltip"><![CDATA[SHOW HOTSPOTS]]></data>
+  <data name="en_togglebutton2firstclick107132hs_group_hidehs_keyword"><![CDATA[Info]]></data>
+  <data name="en_togglebutton2secondclick107956hs_group_showhs_keyword"><![CDATA[Info]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
